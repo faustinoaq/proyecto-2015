@@ -1,0 +1,93 @@
+00 PE 0007 00859 ARCIA G                   EINAR O                   M Diurno     2013
+02 00 0728 00758 TORIBIO                   JAZMIN                    F Nocturno   2013
+04 00 0771 01137 PRADO                     KENNETH                   M            2013
+04 00 0791 01986 CARPINTERO                JESSICA                   F Diurno     2013
+04 00 0798 01380 CARPINTERO                KENIA                     F            2013
+06 00 0709 02025 RODRIGUEZ                 DAYANIS                   F Diurno     2013
+06 00 0712 00496 PINTO                     SONIA                     F Diurno     2013
+06 00 0714 02188 RODRIGUEZ                 YARANI                    F Nocturno   2013
+06 00 0715 00260 RODRIGUEZ                 EDUARDO                   M Diurno     2013
+07 00 0708 01601 HERRERA                   YARIEL                    M Diurno     2013
+08 00 0783 02157 NEWMAN                    YAREMIS                   F Diurno     2013
+08 00 0872 01567 BETHANCOURTH              SOFIA                     F Nocturno   2013
+08 00 0877 02092 CASTILLO                  JESUS                     M Diurno     2013
+08 00 0880 01938 GONZALEZ                  ARMANDO                   M            2013
+08 00 0887 02029 BARRIA                    OMAR                      M            2013
+09 00 0149 00030 DUARTE                    EVARISTA                  F Diurno     2013
+09 00 0153 00154 CASTROVERDE               VILMA                     F Diurno     2013
+09 00 0166 00815 VARGAS                    ERIC CARMELO              M Nocturno   2013
+09 00 0703 00475 TREJOS HERNANDEZ          ERASMO DE JESUS           M Diurno     2013
+09 00 0703 00837 BATISTA                   LUIS                      M Nocturno   2013
+09 00 0705 00843 ABREGO                    KERVIN                    M            2013
+09 00 0708 01405 CABALLERO                 KATIA                     F Nocturno   2013
+09 00 0709 01293 CONCEPCION                YAMITZU                   F Diurno     2013
+09 00 0713 00227 TENORIO                   DEISY                     F Nocturno   2013
+09 00 0713 01490 CORTEZ                    EVA                       F Diurno     2013
+09 00 0714 01756 MENDOZA                   MITZI                     F Diurno     2013
+09 00 0718 01075 BATISTA                   YAMILKA                   F Nocturno   2013
+09 00 0720 00981 RODRIGUEZ                 IZETTE                    F Vespertin  2013
+09 00 0721 00439 MENDEZ                    INOCENCIO                 M Diurno     2013
+09 00 0722 01851 QUINTERO                  AVELINO                   M Diurno     2013
+09 00 0724 00879 NAVARRO                   MARIA DEL C.              F Nocturno   2013
+09 00 0724 02482 FLORES                    MAGALIS                   F Nocturno   2013
+09 00 0725 01857 CAMANO                    MEREDITH                  F Nocturno   2013
+09 00 0727 01202 MARTINEZ                  HAROL                     M Diurno     2013
+09 00 0727 01576 MONTERO                   ALEXANDER                 M Nocturno   2013
+09 00 0727 01700 MONROY                    ISAMAR                    F Nocturno   2013
+09 00 0728 00153 VERGARA                   YANETH                    F Nocturno   2013
+09 00 0728 00424 JIMENEZ                   YACCIERS                  F Diurno     2013
+09 00 0729 00994 DONOSO                    ALBIS                     M Nocturno   2013
+09 00 0729 01270 CARPINTERO                EUSEVIO                   M Diurno     2013
+09 00 0730 01214 GONZALEZ                  AMADIZ                    M Diurno     2013
+09 00 0731 01926 JORDAN                    OVIDIO                    M Diurno     2013
+09 00 0731 02044 VEGA                      YAQUELIN                  F Diurno     2013
+09 00 0732 00084 ORTEGA                    ORLANDO                   M Diurno     2013
+09 00 0732 02177 VASQUEZ                   EDITH                     F Diurno     2013
+09 00 0732 02360 MADRID                    EVELYN                    F Nocturno   2013
+09 00 0733 00078 MONTES                    MARIBEL                   F Diurno     2013
+09 00 0733 00248 MARTINEZ                  MARIA                     F Diurno     2013
+09 00 0733 00850 POLANCO                   YENNY                     F Diurno     2013
+09 00 0733 01760 GARCIA                    ITZEL                     F            2013
+09 00 0733 02203 LORENZO                   VICTOR                    M            2013
+09 00 0734 00041 PENALBA                   ARIEL                     M Nocturno   2013
+09 00 0734 00662 VALDES                    DAMARIS                   F Nocturno   2013
+09 00 0734 00867 MENDOZA                   TRINIDAD                  F            2013
+09 00 0734 01154 PINEDA                    LEIDYS                    F Nocturno   2013
+09 00 0734 01257 RODRIGUEZ                 OSCAR                     M Diurno     2013
+09 00 0734 01357 PINTO                     JACOB                     M Diurno     2013
+09 00 0734 02155 ABREGO                    ZORALIK                   F Nocturno   2013
+09 00 0734 02246 PITA                      GLORIA                    F Nocturno   2013
+09 00 0735 01053 CENCION                   JUVENAL                   M Nocturno   2013
+09 00 0736 02330 SAAVEDRA                  LIZBETH                   F Nocturno   2013
+09 00 0737 01347 PERALTA                   EDGAR                     M Diurno     2013
+09 00 0737 01350 RUJANO                    EUCLIDES                  M Diurno     2013
+09 00 0738 01590 JUAREZ                    JOSE                      M Nocturno   2013
+09 00 0739 00251 GONZALEZ                  CARLA                     F            2013
+09 00 0739 00575 RODRIGUEZ                 CELIBETH                  F Diurno     2013
+09 00 0739 00667 GONZALEZ                  LUIS ALBERTO              M Nocturno   2013
+09 00 0739 01406 ATENCIO                   ERICK                     M Diurno     2013
+09 00 0739 02273 CONCEPCION                EDWIN                     M Diurno     2013
+09 00 0740 00820 MIRANDA                   CESAR                     M Diurno     2013
+09 00 0740 00829 HOO                       JOZABED                   M Diurno     2013
+09 00 0740 00918 VANA                      VICTOR                    M Diurno     2013
+09 00 0740 01205 PARDO                     DEISY                     F Nocturno   2013
+09 00 0740 02042 DE GRACIA                 RAYNER                    M Diurno     2013
+09 00 0741 00200 CONCEPCION                SILVIA                    F Diurno     2013
+09 00 0741 00371 REYES                     JOSE                      M Vespertin  2013
+09 00 0741 01513 PARADA                    ANA                       F Diurno     2013
+09 00 0742 00122 MENDOZA                   THAIS                     F Diurno     2013
+09 00 0742 01807 VASQUEZ                   ANEL                      M Diurno     2013
+09 00 0742 01839 VEJERANO                  EDWIN                     M Nocturno   2013
+09 00 0742 02224 MORALES                   MELISSA                   F Diurno     2013
+09 00 0742 02345 RIOS                      OMAR                      M Nocturno   2013
+09 00 0742 02465 ARENAS                    MAYRA                     F            2013
+09 00 0743 00358 GONZALEZ                  ABDEL                     M            2013
+09 00 0743 01178 URRIOLA                   MITZURYS                  F            2013
+09 00 0743 01385 BATISTA                   DABAYRA                   F Nocturno   2013
+09 00 0743 02404 GUEVARA                   JOSE                      M            2013
+09 00 0744 02361 CAMARGO                   FRANCISCO                 M Nocturno   2013
+09 00 0745 00152 QUINTERO                  ERASMO                    M            2013
+09 00 0745 00671 MURILLO                   YOLANIS                   F            2013
+09 00 0745 01755 GONZALEZ                  ESPIRITU                  M            2013
+09 00 0745 02068 RODRIGUEZ                 SANDRA                    F Nocturno   2013
+09 00 0745 02389 GONZALEZ                  ELISAMA                   F Diurno     2013

@@ -1,0 +1,434 @@
+
+                                             U N I V E R S I D A D   D E   P A N A M A
+
+Fecha :   29/05/2013                                  DIRECCION DE INFORMATICA                Pag. 1 de 7
+
+                                           DIRECTORIO DE ESTUDIANTES ORDENADO POR CEDULA       (DIREST_UBC_CED2)
+                                                        DEL 1  SEMESTRE 2013
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 02  INGENIERIA EN INFORMATICA
+ Carrera: 01  LIC. DE INGENIERIA EN INFORMATICA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+02 00 0719 02461 BUITRAGO                       EUFEMIA                        F    Diurno    2013
+02 00 0724 00174 MENDIETA                       WILLIAMS                       M    Diurno    2013
+02 00 0725 01788 DE LEON                        DANIELA                        F    Diurno    2013
+04 00 0773 02426 CAMARENA                       EFIGENIO                       M    Diurno    2013
+08 00 0813 01236 BETHANCOURTT                   JUAN                           M    Diurno    2013
+08 00 0843 00341 QIU                            DAVID                          M    Diurno    2012
+08 00 0878 00167 QUINTERO                       JESUS                          M    Vespertin 2013
+09 00 0713 00836 HERNANDEZ                      LUISA                          F    Nocturno  2013
+09 00 0715 02226 FLORES                         KAREM                          F    Diurno    2013
+09 00 0719 02348 URIETA                         ITZEL                          F    Nocturno  2013
+09 00 0720 02009 LIMA                           RANDALL                        M              2013
+09 00 0729 01602 RODRIGUEZ                      ELSI                           F    Diurno    2013
+09 00 0731 02028 URRIOLA                        KRISTEL                        F    Diurno    2013
+09 00 0732 00793 AMORES                         HUMBERTO                       M    Diurno    2013
+09 00 0733 01470 GONZALEZ                       DARINEL                        M    Diurno    2013
+09 00 0735 00472 FERNANDEZ                      ADDA                           F    Diurno    2013
+09 00 0735 00569 GONZALEZ                       YOLMARYS                       F    Diurno    2013
+09 00 0736 02144 MONTOYA                        JOSUEL                         M    Diurno    2013
+09 00 0736 02350 VASQUEZ                        KEVIN                          M    Diurno    2013
+09 00 0736 02365 ROMERO GONZALEZ                KAREN STEFFI                   F    Diurno    2013
+09 00 0736 02374 GOFF                           JOSE                           M    Diurno    2013
+09 00 0737 01672 APONTE                         IRVING                         M    Diurno    2013
+09 00 0737 01730 MADRID                         MARIA                          F    Diurno    2013
+09 00 0738 00549 PINEDA OSSA                    LUIS ANTONIO                   M    Diurno    2013
+09 00 0738 01629 ZAMBRANO                       ADRIANO                        M    Diurno    2013
+09 00 0739 00798 MADRID                         TOMAS                          M    Diurno    2013
+09 00 0739 02304 JARAMILLO                      ASTRID                         F    Diurno    2013
+09 00 0740 01953 VIDAL                          MOISES                         M    Diurno    2013
+09 00 0741 01729 MELA                           JOSE                           M    Diurno    2013
+09 00 0742 00615 RODRIGUEZ                      LUIS ENRIQUE                   M    Diurno    2013
+09 00 0742 01385 MORENO                         JUAN CARLOS                    M    Diurno    2013
+09 00 0742 01661 SANCHEZ                        DIOMEDES                       M    Diurno    2013
+09 00 0743 00583 PUGA                           JOSE                           M              2013
+09 00 0744 01165 RODRIGUEZ                      FLOR                           F    Diurno    2013
+09 00 0744 02209 SOLIS                          CARMEN                         F    Diurno    2013
+                                            -----------
+           Total de estudiantes :            35
+
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 02  INGENIERIA EN INFORMATICA
+ Carrera: 02  TECNICO EN INFORMATICA EDUCATIVA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+09 00 0738 02456 RODRIGUEZ                      YAHAIRA                        F              2013
+09 00 0744 01122 AIZPRUA                        NARAHI                         M              2013
+09 00 0756 00923 GONZALEZ                       ALBERTO                        M              2013
+
+                                             U N I V E R S I D A D   D E   P A N A M A
+
+Fecha :   29/05/2013                                  DIRECCION DE INFORMATICA                Pag. 2 de 7
+
+                                           DIRECTORIO DE ESTUDIANTES ORDENADO POR CEDULA       (DIREST_UBC_CED2)
+                                                        DEL 1  SEMESTRE 2013
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 02  INGENIERIA EN INFORMATICA
+ Carrera: 02  TECNICO EN INFORMATICA EDUCATIVA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+                                            -----------
+           Total de estudiantes :            3
+
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 02  INGENIERIA EN INFORMATICA
+ Carrera: 05  LIC.  EN INFORMATICA PARA GEST. EDU
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+06 00 0715 00778 MONTERREY                      YAJAYRA                        F    Diurno    2013
+06 00 0716 00321 ATENCIO                        FRANCISCO                      F    Diurno    2013
+08 00 0855 02188 GONZALEZ                       DAYSI                          F              2013
+09 00 0729 02212 CASTILLO                       MOISES                         M    Diurno    2013
+09 00 0742 01080 DE GRACIA                      ISAAC                          M              2013
+09 00 0745 01469 NU�EZ                          DONALDO                        M              2013
+                                            -----------
+           Total de estudiantes :            6
+
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 03  INFOR PARA LA GEST EDUCATI Y EMPRES
+ Carrera: 01  TECNICO EN INFORMATICA EDUCATIVA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+00 PE 0007 00859 ARCIA G                        EINAR O                        M    Diurno    2013
+02 00 0728 00758 TORIBIO                        JAZMIN                         F    Nocturno  2013
+04 00 0771 01137 PRADO                          KENNETH                        M              2013
+04 00 0791 01986 CARPINTERO                     JESSICA                        F    Diurno    2013
+04 00 0798 01380 CARPINTERO                     KENIA                          F              2013
+06 00 0709 02025 RODRIGUEZ                      DAYANIS                        F    Diurno    2013
+06 00 0712 00496 PINTO                          SONIA                          F    Diurno    2013
+06 00 0714 02188 RODRIGUEZ                      YARANI                         F    Nocturno  2013
+06 00 0715 00260 RODRIGUEZ                      EDUARDO                        M    Diurno    2013
+07 00 0708 01601 HERRERA                        YARIEL                         M    Diurno    2013
+08 00 0783 02157 NEWMAN                         YAREMIS                        F    Diurno    2013
+08 00 0872 01567 BETHANCOURTH                   SOFIA                          F    Nocturno  2013
+08 00 0877 02092 CASTILLO                       JESUS                          M    Diurno    2013
+08 00 0880 01938 GONZALEZ                       ARMANDO                        M              2013
+08 00 0887 02029 BARRIA                         OMAR                           M              2013
+09 00 0149 00030 DUARTE                         EVARISTA                       F    Diurno    2013
+09 00 0153 00154 CASTROVERDE                    VILMA                          F    Diurno    2013
+09 00 0166 00815 VARGAS                         ERIC CARMELO                   M    Nocturno  2013
+09 00 0703 00475 TREJOS HERNANDEZ               ERASMO DE JESUS                M    Diurno    2013
+09 00 0703 00837 BATISTA                        LUIS                           M    Nocturno  2013
+09 00 0705 00843 ABREGO                         KERVIN                         M              2013
+
+                                             U N I V E R S I D A D   D E   P A N A M A
+
+Fecha :   29/05/2013                                  DIRECCION DE INFORMATICA                Pag. 3 de 7
+
+                                           DIRECTORIO DE ESTUDIANTES ORDENADO POR CEDULA       (DIREST_UBC_CED2)
+                                                        DEL 1  SEMESTRE 2013
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 03  INFOR PARA LA GEST EDUCATI Y EMPRES
+ Carrera: 01  TECNICO EN INFORMATICA EDUCATIVA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+09 00 0708 01405 CABALLERO                      KATIA                          F    Nocturno  2013
+09 00 0709 01293 CONCEPCION                     YAMITZU                        F    Diurno    2013
+09 00 0713 00227 TENORIO                        DEISY                          F    Nocturno  2013
+09 00 0713 01490 CORTEZ                         EVA                            F    Diurno    2013
+09 00 0714 01756 MENDOZA                        MITZI                          F    Diurno    2013
+09 00 0718 01075 BATISTA                        YAMILKA                        F    Nocturno  2013
+09 00 0720 00981 RODRIGUEZ                      IZETTE                         F    Vespertin 2013
+09 00 0721 00439 MENDEZ                         INOCENCIO                      M    Diurno    2013
+09 00 0722 01851 QUINTERO                       AVELINO                        M    Diurno    2013
+09 00 0724 00879 NAVARRO                        MARIA DEL C.                   F    Nocturno  2013
+09 00 0724 02482 FLORES                         MAGALIS                        F    Nocturno  2013
+09 00 0725 01857 CAMANO                         MEREDITH                       F    Nocturno  2013
+09 00 0727 01202 MARTINEZ                       HAROL                          M    Diurno    2013
+09 00 0727 01576 MONTERO                        ALEXANDER                      M    Nocturno  2013
+09 00 0727 01700 MONROY                         ISAMAR                         F    Nocturno  2013
+09 00 0728 00153 VERGARA                        YANETH                         F    Nocturno  2013
+09 00 0728 00424 JIMENEZ                        YACCIERS                       F    Diurno    2013
+09 00 0729 00994 DONOSO                         ALBIS                          M    Nocturno  2013
+09 00 0729 01270 CARPINTERO                     EUSEVIO                        M    Diurno    2013
+09 00 0730 01214 GONZALEZ                       AMADIZ                         M    Diurno    2013
+09 00 0731 01926 JORDAN                         OVIDIO                         M    Diurno    2013
+09 00 0731 02044 VEGA                           YAQUELIN                       F    Diurno    2013
+09 00 0732 00084 ORTEGA                         ORLANDO                        M    Diurno    2013
+09 00 0732 02177 VASQUEZ                        EDITH                          F    Diurno    2013
+09 00 0732 02360 MADRID                         EVELYN                         F    Nocturno  2013
+09 00 0733 00078 MONTES                         MARIBEL                        F    Diurno    2013
+09 00 0733 00248 MARTINEZ                       MARIA                          F    Diurno    2013
+09 00 0733 00850 POLANCO                        YENNY                          F    Diurno    2013
+09 00 0733 01760 GARCIA                         ITZEL                          F              2013
+09 00 0733 02203 LORENZO                        VICTOR                         M              2013
+09 00 0734 00041 PENALBA                        ARIEL                          M    Nocturno  2013
+09 00 0734 00662 VALDES                         DAMARIS                        F    Nocturno  2013
+09 00 0734 00867 MENDOZA                        TRINIDAD                       F              2013
+09 00 0734 01154 PINEDA                         LEIDYS                         F    Nocturno  2013
+09 00 0734 01257 RODRIGUEZ                      OSCAR                          M    Diurno    2013
+09 00 0734 01357 PINTO                          JACOB                          M    Diurno    2013
+09 00 0734 02155 ABREGO                         ZORALIK                        F    Nocturno  2013
+09 00 0734 02246 PITA                           GLORIA                         F    Nocturno  2013
+09 00 0735 01053 CENCION                        JUVENAL                        M    Nocturno  2013
+09 00 0736 02330 SAAVEDRA                       LIZBETH                        F    Nocturno  2013
+09 00 0737 01347 PERALTA                        EDGAR                          M    Diurno    2013
+09 00 0737 01350 RUJANO                         EUCLIDES                       M    Diurno    2013
+09 00 0738 01590 JUAREZ                         JOSE                           M    Nocturno  2013
+09 00 0739 00251 GONZALEZ                       CARLA                          F              2013
+09 00 0739 00575 RODRIGUEZ                      CELIBETH                       F    Diurno    2013
+09 00 0739 00667 GONZALEZ                       LUIS ALBERTO                   M    Nocturno  2013
+09 00 0739 01406 ATENCIO                        ERICK                          M    Diurno    2013
+09 00 0739 02273 CONCEPCION                     EDWIN                          M    Diurno    2013
+09 00 0740 00820 MIRANDA                        CESAR                          M    Diurno    2013
+
+                                             U N I V E R S I D A D   D E   P A N A M A
+
+Fecha :   29/05/2013                                  DIRECCION DE INFORMATICA                Pag. 4 de 7
+
+                                           DIRECTORIO DE ESTUDIANTES ORDENADO POR CEDULA       (DIREST_UBC_CED2)
+                                                        DEL 1  SEMESTRE 2013
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 03  INFOR PARA LA GEST EDUCATI Y EMPRES
+ Carrera: 01  TECNICO EN INFORMATICA EDUCATIVA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+09 00 0740 00829 HOO                            JOZABED                        M    Diurno    2013
+09 00 0740 00918 VANA                           VICTOR                         M    Diurno    2013
+09 00 0740 01205 PARDO                          DEISY                          F    Nocturno  2013
+09 00 0740 02042 DE GRACIA                      RAYNER                         M    Diurno    2013
+09 00 0741 00200 CONCEPCION                     SILVIA                         F    Diurno    2013
+09 00 0741 00371 REYES                          JOSE                           M    Vespertin 2013
+09 00 0741 01513 PARADA                         ANA                            F    Diurno    2013
+09 00 0742 00122 MENDOZA                        THAIS                          F    Diurno    2013
+09 00 0742 01807 VASQUEZ                        ANEL                           M    Diurno    2013
+09 00 0742 01839 VEJERANO                       EDWIN                          M    Nocturno  2013
+09 00 0742 02224 MORALES                        MELISSA                        F    Diurno    2013
+09 00 0742 02345 RIOS                           OMAR                           M    Nocturno  2013
+09 00 0742 02465 ARENAS                         MAYRA                          F              2013
+09 00 0743 00358 GONZALEZ                       ABDEL                          M              2013
+09 00 0743 01178 URRIOLA                        MITZURYS                       F              2013
+09 00 0743 01385 BATISTA                        DABAYRA                        F    Nocturno  2013
+09 00 0743 02404 GUEVARA                        JOSE                           M              2013
+09 00 0744 02361 CAMARGO                        FRANCISCO                      M    Nocturno  2013
+09 00 0745 00152 QUINTERO                       ERASMO                         M              2013
+09 00 0745 00671 MURILLO                        YOLANIS                        F              2013
+09 00 0745 01755 GONZALEZ                       ESPIRITU                       M              2013
+09 00 0745 02068 RODRIGUEZ                      SANDRA                         F    Nocturno  2013
+09 00 0745 02389 GONZALEZ                       ELISAMA                        F    Diurno    2013
+                                            -----------
+           Total de estudiantes :            93
+
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 03  INFOR PARA LA GEST EDUCATI Y EMPRES
+ Carrera: 02  LIC. PARA LA GESTION EDUC Y EMPRESA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+00 PE 0012 01498 CASTILLO                       DIONEL                         M    Diurno    2013
+01 00 0707 00547 JOSE                           VIVIANA                        M    Diurno    2013
+01 00 0720 01322 TROTMAN                        ASCANIO                        M    Diurno    2013
+02 00 0714 02113 CASTREJON AGUILAR              LILIANA MARIA                  F    Diurno    2013
+02 00 0719 01495 GONZALEZ                       EDIVIEL                        M    Diurno    2013
+02 00 0734 00047 SEVILLANO                      MARIBEL                        F              2013
+02 00 0734 01987 MONTERREY                      EDGARDO                        M    Diurno    2013
+03 00 0712 00071 VARGAS CASTILLO                VIELKA ESTHER                  F    Nocturno  2013
+03 00 0730 00539 RIVERA                         YAHANELIS                      F    Diurno    2013
+04 00 0750 01974 PALACIO                        LUCRECIO                       M    Diurno    2013
+04 00 0753 00604 MACHO                          LUIS                           M    Vespertin 2013
+04 00 0755 01029 MUNOZ                          LIRIETH                        F    Diurno    2013
+04 00 0759 00779 ACOSTA                         FLORENCIO                      M    Diurno    2013
+04 00 0762 00680 RODRIGUEZ                      LUIS                           M    Diurno    2013
+04 00 0769 00402 SEGUNDO                        SIXTO                          M              2013
+
+                                             U N I V E R S I D A D   D E   P A N A M A
+
+Fecha :   29/05/2013                                  DIRECCION DE INFORMATICA                Pag. 5 de 7
+
+                                           DIRECTORIO DE ESTUDIANTES ORDENADO POR CEDULA       (DIREST_UBC_CED2)
+                                                        DEL 1  SEMESTRE 2013
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 03  INFOR PARA LA GEST EDUCATI Y EMPRES
+ Carrera: 02  LIC. PARA LA GESTION EDUC Y EMPRESA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+04 00 0769 02227 PINZON                         ANALIDA                        F              2013
+04 00 0780 01187 CARPINTERO                     CARLOS                         M    Diurno    2013
+05 00 0711 00816 RODRIGUEZ                      HECTOR                         M    Vespertin 2013
+06 00 0705 00714 FLORES MELA                    OMAIRA                         F    Nocturno  2013
+06 00 0708 00600 MENDOZA BUSTAVINO              MARITZA DEL CARMEN             F    Diurno    2013
+06 00 0713 00145 CEDENO                         GUADALUPE                      F    Diurno    2013
+06 00 0714 01261 MELENDEZ                       ARLIN                          F    Diurno    2013
+06 00 0715 01008 BULTRON                        JUAN MIGUEL                    M              2013
+06 00 0715 01584 CARRASQUILLA                   LUISA                          F    Diurno    2013
+06 00 0717 00858 RODRIGUEZ                      YHOSELINNE                     F    Diurno    2013
+06 00 0718 01397 POLANCO                        KEYLA                          F              2013
+06 00 0718 01799 RODRIGUEZ                      GENEZARETH                     F    Diurno    2013
+07 00 0705 00862 FUENTES                        ROGELIO                        M    Diurno    2013
+07 00 0707 00499 JIMENEZ                        BLADIMIR                       M    Diurno    2013
+08 00 0779 00026 DIAZ                           GABRIEL                        M    Diurno    2013
+08 00 0813 01677 BATISTA                        BELKYS                         F    Diurno    2013
+08 00 0832 00056 ZAMBRANO                       LEONARDO                       M    Diurno    2013
+08 00 0876 01615 VEGA                           JOSSEPH                        M    Diurno    2013
+08 00 0885 02444 MORALES                        GREGORIO                       M    Diurno    2013
+08 00 0889 00165 GUEVARA                        AURY                           F    Diurno    2013
+08 00 0890 01131 MENDOZA                        AURIBEL                        F              2013
+09 00 0136 00939 BERNAL LIMA                    ROSA ELVIRA                    F    Nocturno  2013
+09 00 0702 01527 GONZALEZ T.                    YENIZETH Y.                    F    Diurno    2013
+09 00 0703 02489 MENDEZ                         PASTOR                         M    Diurno    2013
+09 00 0704 01031 BALLESTEROS                    DANIEL                         M    Diurno    2013
+09 00 0708 00216 CAMPINES                       IBELIZ                         F    Nocturno  2013
+09 00 0709 01187 VALDES                         JUAN ANTONIO                   M    Diurno    2013
+09 00 0711 01418 PINEDA                         PASTOR                         M    Nocturno  2013
+09 00 0713 00533 ITURRALDE PE�A                 EDITH LORAIDA                  F    Vespertin 2013
+09 00 0714 00955 RIVERA                         GUILLERMO                      M    Diurno    2013
+09 00 0715 01849 MATTEO                         ETHELL                         F    Nocturno  2013
+09 00 0716 01937 GOMEZ ALVARADO                 GUMERJAIRO                     M    Diurno    2013
+09 00 0717 01105 GONZALEZ M.                    JORGE L.                       M    Diurno    2013
+09 00 0717 01496 DUTARI P.                      LUZ MARIA                      F    Diurno    2013
+09 00 0720 01662 ABREGO                         ERICKA                         F    Diurno    2013
+09 00 0722 02066 FLORES                         MARQUIS                        M    Diurno    2013
+09 00 0723 00477 JUAREZ                         ERICK                          M    Diurno    2013
+09 00 0723 01463 GONZALEZ                       ALEX                           M    Diurno    2013
+09 00 0723 01944 MADRID                         LUIS                           M    Diurno    2013
+09 00 0724 01589 CONCEPCION                     JAIRO                          M    Diurno    2013
+09 00 0724 01604 POLANCO                        NELVIN                         M    Diurno    2013
+09 00 0726 00655 PE�ALBA                        CECILIO                        M    Diurno    2013
+09 00 0726 01657 JUAREZ                         JOSE                           M    Diurno    2013
+09 00 0727 00321 PINTO                          LUIS                           F    Diurno    2013
+09 00 0728 00006 YANEZ                          YADELIS                        M    Vespertin 2013
+09 00 0728 02148 FLORES                         JULIO                          M    Diurno    2013
+09 00 0729 01399 CASTILLO                       ZACHARY                        M    Diurno    2013
+09 00 0729 01417 GONZALEZ                       ALBIS                          M    Nocturno  2013
+09 00 0729 01966 CRUZ                           ANTHONY                        M    Diurno    2013
+
+                                             U N I V E R S I D A D   D E   P A N A M A
+
+Fecha :   29/05/2013                                  DIRECCION DE INFORMATICA                Pag. 6 de 7
+
+                                           DIRECTORIO DE ESTUDIANTES ORDENADO POR CEDULA       (DIREST_UBC_CED2)
+                                                        DEL 1  SEMESTRE 2013
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 03  INFOR PARA LA GEST EDUCATI Y EMPRES
+ Carrera: 02  LIC. PARA LA GESTION EDUC Y EMPRESA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+09 00 0729 02135 RODRIGUEZ                      MARGELYS                       F    Nocturno  2013
+09 00 0730 00717 MERO                           JOSE                           M    Diurno    2013
+09 00 0730 01569 MENDOZA                        EDILSA                         F    Diurno    2013
+09 00 0731 00368 BORDONES                       CRUZ                           M    Diurno    2013
+09 00 0731 00683 WADELL                         ALEXANDER                      M    Diurno    2013
+09 00 0731 02062 BORDONES MORALES               SIMEON                         M    Diurno    2013
+09 00 0732 00318 URRIOLA                        EDWIN                          M    Diurno    2013
+09 00 0732 01083 GUEVARA                        LUIS                           M    Diurno    2013
+09 00 0732 01187 MORALES                        IRVIN                          M    Diurno    2013
+09 00 0732 02050 RODRIGUEZ                      DEMETRIO                       M    Diurno    2013
+09 00 0732 02161 AGUDO                          ANYURI                         F    Diurno    2013
+09 00 0732 02162 BONILLA                        VICTOR                         M    Diurno    2013
+09 00 0733 01046 CARVAJAL                       JOSE                           M    Diurno    2013
+09 00 0733 02043 MORALES                        YOLIANA                        F    Diurno    2013
+09 00 0734 00663 ABREGO                         NATHANIEL                      M    Diurno    2013
+09 00 0734 01313 RODRIGUEZ                      LEYDY                          F    Diurno    2013
+09 00 0734 01369 VEGA                           DARWIN                         M    Diurno    2013
+09 00 0734 01488 RODRIGUEZ                      ANA                            F    Diurno    2013
+09 00 0734 01672 HIDALGO                        ANGEL                          M    Diurno    2013
+09 00 0734 02420 APARICIO                       JOSE                           M    Diurno    2013
+09 00 0735 00097 RODRIGUEZ                      MARIBEL                        F    Diurno    2013
+09 00 0735 00346 RODRIGUEZ                      ANAYTTEE                       F    Diurno    2013
+09 00 0735 00594 QUINTERO                       JUAN                           M    Diurno    2013
+09 00 0735 02178 RODRIGUEZ                      AZAREEL                        M              2013
+09 00 0735 02403 ESCOBAR                        LEONARDO                       M              2013
+09 00 0736 00469 CASTILLO                       JOSE                           M    Diurno    2013
+09 00 0736 01184 MADRID                         MONICA                         F    Diurno    2013
+09 00 0737 00204 GILL                           JOEL                           M    Diurno    2013
+09 00 0737 00525 ABREGO                         DIANETH                        F              2013
+09 00 0737 00978 RDORIGUEZ                      RAYSA                          F    Diurno    2013
+09 00 0737 02402 HERNANDEZ                      KATHERINE                      F    Diurno    2013
+09 00 0739 00807 SANTAMARIA                     KATHERINE                      F    Diurno    2013
+09 00 0739 00968 APARICIO                       ERICKSON                       M    Diurno    2013
+09 00 0739 01133 RODRIGUEZ                      MARIA                          F    Diurno    2013
+09 00 0739 01416 CORTES                         LILIBETH                       F    Vespertin 2013
+09 00 0739 01508 DE GRACIA                      ALMA                           F              2013
+09 00 0739 01651 QUINTERO                       OFILIO                         M    Diurno    2013
+09 00 0739 01923 PINEDA                         STEFANIE                       F    Diurno    2013
+09 00 0740 00774 SANCHEZ                        NESTALY                        M    Diurno    2013
+09 00 0740 02342 CAMARENA                       JOSE                           M    Diurno    2013
+09 00 0740 02361 MONRROY                        EVIDELIA                       F    Diurno    2013
+09 00 0741 00619 SANTOS                         GONZALO                        M    Diurno    2013
+09 00 0741 01053 ZAMORA                         KATHERINE                      F    Diurno    2013
+09 00 0741 01533 RIOS                           LIZ                            F    Diurno    2013
+09 00 0741 01691 ABREGO                         HEYDI                          F    Vespertin 2013
+09 00 0741 01856 CARPINTERO                     OLIVIA                         F    Diurno    2013
+09 00 0741 01936 ALVAREZ                        KENIA LISBET                   F    Diurno    2013
+09 00 0741 02112 URRIOLA                        KENIA                          F    Diurno    2013
+09 00 0741 02164 ESPINOSA                       JOSE                           M    Diurno    2013
+
+                                             U N I V E R S I D A D   D E   P A N A M A
+
+Fecha :   29/05/2013                                  DIRECCION DE INFORMATICA                Pag. 7 de 7
+
+                                           DIRECTORIO DE ESTUDIANTES ORDENADO POR CEDULA       (DIREST_UBC_CED2)
+                                                        DEL 1  SEMESTRE 2013
+
+    Sede: 04  VERAGUAS
+Facultad: 24  INFORMATICA ELECTRONICA Y COMUNIC.
+ Escuela: 03  INFOR PARA LA GEST EDUCATI Y EMPRES
+ Carrera: 02  LIC. PARA LA GESTION EDUC Y EMPRESA
+
+C  E  D  U  L  A Apellido                       Nombre                         Sexo Turno     Ultimo Ano
+---------------- ------------------------------ ------------------------------ ---- --------- ----------
+09 00 0741 02464 CONCEPCION                     YUNIER                         M    Diurno    2013
+09 00 0742 00469 BERMUDES                       JESUS                          M    Diurno    2013
+09 00 0742 00501 ARANGO                         IVAN                           M              2013
+09 00 0742 00968 GARCIA                         NELSON                         M    Diurno    2013
+09 00 0742 01087 GONZALEZ                       FRANCISCO                      M    Diurno    2013
+09 00 0742 01090 ATENCIO                        TYANA                          F              2013
+09 00 0742 01108 BOSQUEZ                        ISAIAS                         M              2013
+09 00 0742 01600 SERRANO                        HECTOR                         M    Diurno    2013
+09 00 0742 01707 QUIEL                          VANESSA                        F    Diurno    2013
+09 00 0742 02048 MARTINEZ                       ANA                            F              2013
+09 00 0743 00636 RIVERA                         BERTHA                         F              2013
+09 00 0743 00808 CASTILLO                       ALBANIA                        F    Diurno    2013
+09 00 0743 00844 GIRON                          ILKA                           F              2013
+09 00 0743 01190 RODRIGUEZ                      MANUEL                         M    Diurno    2013
+09 00 0743 02039 CASTILLO                       MIRIANIS                       F    Diurno    2013
+09 00 0743 02216 QUINTERO                       AARON                          M              2013
+09 00 0743 02247 GUERRA                         ANGELYS                        F              2013
+09 00 0743 02338 RODRIGUEZ                      JHONATAN                       M              2013
+09 00 0744 00203 BARRIA                         MARIA                          F              2013
+09 00 0744 00573 CAMA�O                         ANGEL                          M              2013
+09 00 0744 00796 RIOS                           ONEL                           M              2013
+09 00 0744 00846 CALLES                         RIGOBERTO                      M              2013
+09 00 0744 01829 CASTILLO C.                    DALADIER A.                    M    Diurno    2013
+09 00 0745 00183 VEGA                           DEMETRIO                       M              2013
+09 00 0745 00689 CABALLERO                      MODESTO                        M              2013
+09 00 0745 00916 ALMANZA HERNANDEZ              ARIANA ANET                    F    Diurno    2013
+09 00 0745 00949 GONZALEZ                       OSMAN                          M    Diurno    2013
+09 00 0746 01964 FULLER                         LUIS                           M    Nocturno  2013
+09 00 0748 02315 GIL                            YESSICA                        F    Diurno    2013
+09 00 0751 02338 MENDOZA                        SELIS                          F    Diurno    2013
+09 00 0752 00029 SUAZO                          CRISTY                         F              2013
+09 00 0761 01115 AGUILAR                        ADAN                           M    Diurno    2013
+                                            -----------
+           Total de estudiantes :            145
+

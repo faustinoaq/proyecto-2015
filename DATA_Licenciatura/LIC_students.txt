@@ -1,0 +1,154 @@
+09 00 0738 02456 RODRIGUEZ                 YAHAIRA                   F            2013
+09 00 0744 01122 AIZPRUA                   NARAHI                    M            2013
+09 00 0756 00923 GONZALEZ                  ALBERTO                   M            2013
+06 00 0715 00778 MONTERREY                 YAJAYRA                   F Diurno     2013
+06 00 0716 00321 ATENCIO                   FRANCISCO                 F Diurno     2013
+08 00 0855 02188 GONZALEZ                  DAYSI                     F            2013
+09 00 0729 02212 CASTILLO                  MOISES                    M Diurno     2013
+09 00 0742 01080 DE GRACIA                 ISAAC                     M            2013
+09 00 0745 01469 NU�EZ                   DONALDO                   M            2013
+00 PE 0012 01498 CASTILLO                  DIONEL                    M Diurno     2013
+01 00 0707 00547 JOSE                      VIVIANA                   M Diurno     2013
+01 00 0720 01322 TROTMAN                   ASCANIO                   M Diurno     2013
+02 00 0714 02113 CASTREJON AGUILAR         LILIANA MARIA             F Diurno     2013
+02 00 0719 01495 GONZALEZ                  EDIVIEL                   M Diurno     2013
+02 00 0734 00047 SEVILLANO                 MARIBEL                   F            2013
+02 00 0734 01987 MONTERREY                 EDGARDO                   M Diurno     2013
+03 00 0712 00071 VARGAS CASTILLO           VIELKA ESTHER             F Nocturno   2013
+03 00 0730 00539 RIVERA                    YAHANELIS                 F Diurno     2013
+04 00 0750 01974 PALACIO                   LUCRECIO                  M Diurno     2013
+04 00 0753 00604 MACHO                     LUIS                      M Vespertin  2013
+04 00 0755 01029 MUNOZ                     LIRIETH                   F Diurno     2013
+04 00 0759 00779 ACOSTA                    FLORENCIO                 M Diurno     2013
+04 00 0762 00680 RODRIGUEZ                 LUIS                      M Diurno     2013
+04 00 0769 00402 SEGUNDO                   SIXTO                     M            2013
+04 00 0769 02227 PINZON                    ANALIDA                   F            2013
+04 00 0780 01187 CARPINTERO                CARLOS                    M Diurno     2013
+05 00 0711 00816 RODRIGUEZ                 HECTOR                    M Vespertin  2013
+06 00 0705 00714 FLORES MELA               OMAIRA                    F Nocturno   2013
+06 00 0708 00600 MENDOZA BUSTAVINO         MARITZA DEL CARMEN        F Diurno     2013
+06 00 0713 00145 CEDENO                    GUADALUPE                 F Diurno     2013
+06 00 0714 01261 MELENDEZ                  ARLIN                     F Diurno     2013
+06 00 0715 01008 BULTRON                   JUAN MIGUEL               M            2013
+06 00 0715 01584 CARRASQUILLA              LUISA                     F Diurno     2013
+06 00 0717 00858 RODRIGUEZ                 YHOSELINNE                F Diurno     2013
+06 00 0718 01397 POLANCO                   KEYLA                     F            2013
+06 00 0718 01799 RODRIGUEZ                 GENEZARETH                F Diurno     2013
+07 00 0705 00862 FUENTES                   ROGELIO                   M Diurno     2013
+07 00 0707 00499 JIMENEZ                   BLADIMIR                  M Diurno     2013
+08 00 0779 00026 DIAZ                      GABRIEL                   M Diurno     2013
+08 00 0813 01677 BATISTA                   BELKYS                    F Diurno     2013
+08 00 0832 00056 ZAMBRANO                  LEONARDO                  M Diurno     2013
+08 00 0876 01615 VEGA                      JOSSEPH                   M Diurno     2013
+08 00 0885 02444 MORALES                   GREGORIO                  M Diurno     2013
+08 00 0889 00165 GUEVARA                   AURY                      F Diurno     2013
+08 00 0890 01131 MENDOZA                   AURIBEL                   F            2013
+09 00 0136 00939 BERNAL LIMA               ROSA ELVIRA               F Nocturno   2013
+09 00 0702 01527 GONZALEZ T.               YENIZETH Y.               F Diurno     2013
+09 00 0703 02489 MENDEZ                    PASTOR                    M Diurno     2013
+09 00 0704 01031 BALLESTEROS               DANIEL                    M Diurno     2013
+09 00 0708 00216 CAMPINES                  IBELIZ                    F Nocturno   2013
+09 00 0709 01187 VALDES                    JUAN ANTONIO              M Diurno     2013
+09 00 0711 01418 PINEDA                    PASTOR                    M Nocturno   2013
+09 00 0713 00533 ITURRALDE PE�A          EDITH LORAIDA             F Vespertin  2013
+09 00 0714 00955 RIVERA                    GUILLERMO                 M Diurno     2013
+09 00 0715 01849 MATTEO                    ETHELL                    F Nocturno   2013
+09 00 0716 01937 GOMEZ ALVARADO            GUMERJAIRO                M Diurno     2013
+09 00 0717 01105 GONZALEZ M.               JORGE L.                  M Diurno     2013
+09 00 0717 01496 DUTARI P.                 LUZ MARIA                 F Diurno     2013
+09 00 0720 01662 ABREGO                    ERICKA                    F Diurno     2013
+09 00 0722 02066 FLORES                    MARQUIS                   M Diurno     2013
+09 00 0723 00477 JUAREZ                    ERICK                     M Diurno     2013
+09 00 0723 01463 GONZALEZ                  ALEX                      M Diurno     2013
+09 00 0723 01944 MADRID                    LUIS                      M Diurno     2013
+09 00 0724 01589 CONCEPCION                JAIRO                     M Diurno     2013
+09 00 0724 01604 POLANCO                   NELVIN                    M Diurno     2013
+09 00 0726 00655 PE�ALBA                 CECILIO                   M Diurno     2013
+09 00 0726 01657 JUAREZ                    JOSE                      M Diurno     2013
+09 00 0727 00321 PINTO                     LUIS                      F Diurno     2013
+09 00 0728 00006 YANEZ                     YADELIS                   M Vespertin  2013
+09 00 0728 02148 FLORES                    JULIO                     M Diurno     2013
+09 00 0729 01399 CASTILLO                  ZACHARY                   M Diurno     2013
+09 00 0729 01417 GONZALEZ                  ALBIS                     M Nocturno   2013
+09 00 0729 01966 CRUZ                      ANTHONY                   M Diurno     2013
+09 00 0729 02135 RODRIGUEZ                 MARGELYS                  F Nocturno   2013
+09 00 0730 00717 MERO                      JOSE                      M Diurno     2013
+09 00 0730 01569 MENDOZA                   EDILSA                    F Diurno     2013
+09 00 0731 00368 BORDONES                  CRUZ                      M Diurno     2013
+09 00 0731 00683 WADELL                    ALEXANDER                 M Diurno     2013
+09 00 0731 02062 BORDONES MORALES          SIMEON                    M Diurno     2013
+09 00 0732 00318 URRIOLA                   EDWIN                     M Diurno     2013
+09 00 0732 01083 GUEVARA                   LUIS                      M Diurno     2013
+09 00 0732 01187 MORALES                   IRVIN                     M Diurno     2013
+09 00 0732 02050 RODRIGUEZ                 DEMETRIO                  M Diurno     2013
+09 00 0732 02161 AGUDO                     ANYURI                    F Diurno     2013
+09 00 0732 02162 BONILLA                   VICTOR                    M Diurno     2013
+09 00 0733 01046 CARVAJAL                  JOSE                      M Diurno     2013
+09 00 0733 02043 MORALES                   YOLIANA                   F Diurno     2013
+09 00 0734 00663 ABREGO                    NATHANIEL                 M Diurno     2013
+09 00 0734 01313 RODRIGUEZ                 LEYDY                     F Diurno     2013
+09 00 0734 01369 VEGA                      DARWIN                    M Diurno     2013
+09 00 0734 01488 RODRIGUEZ                 ANA                       F Diurno     2013
+09 00 0734 01672 HIDALGO                   ANGEL                     M Diurno     2013
+09 00 0734 02420 APARICIO                  JOSE                      M Diurno     2013
+09 00 0735 00097 RODRIGUEZ                 MARIBEL                   F Diurno     2013
+09 00 0735 00346 RODRIGUEZ                 ANAYTTEE                  F Diurno     2013
+09 00 0735 00594 QUINTERO                  JUAN                      M Diurno     2013
+09 00 0735 02178 RODRIGUEZ                 AZAREEL                   M            2013
+09 00 0735 02403 ESCOBAR                   LEONARDO                  M            2013
+09 00 0736 00469 CASTILLO                  JOSE                      M Diurno     2013
+09 00 0736 01184 MADRID                    MONICA                    F Diurno     2013
+09 00 0737 00204 GILL                      JOEL                      M Diurno     2013
+09 00 0737 00525 ABREGO                    DIANETH                   F            2013
+09 00 0737 00978 RDORIGUEZ                 RAYSA                     F Diurno     2013
+09 00 0737 02402 HERNANDEZ                 KATHERINE                 F Diurno     2013
+09 00 0739 00807 SANTAMARIA                KATHERINE                 F Diurno     2013
+09 00 0739 00968 APARICIO                  ERICKSON                  M Diurno     2013
+09 00 0739 01133 RODRIGUEZ                 MARIA                     F Diurno     2013
+09 00 0739 01416 CORTES                    LILIBETH                  F Vespertin  2013
+09 00 0739 01508 DE GRACIA                 ALMA                      F            2013
+09 00 0739 01651 QUINTERO                  OFILIO                    M Diurno     2013
+09 00 0739 01923 PINEDA                    STEFANIE                  F Diurno     2013
+09 00 0740 00774 SANCHEZ                   NESTALY                   M Diurno     2013
+09 00 0740 02342 CAMARENA                  JOSE                      M Diurno     2013
+09 00 0740 02361 MONRROY                   EVIDELIA                  F Diurno     2013
+09 00 0741 00619 SANTOS                    GONZALO                   M Diurno     2013
+09 00 0741 01053 ZAMORA                    KATHERINE                 F Diurno     2013
+09 00 0741 01533 RIOS                      LIZ                       F Diurno     2013
+09 00 0741 01691 ABREGO                    HEYDI                     F Vespertin  2013
+09 00 0741 01856 CARPINTERO                OLIVIA                    F Diurno     2013
+09 00 0741 01936 ALVAREZ                   KENIA LISBET              F Diurno     2013
+09 00 0741 02112 URRIOLA                   KENIA                     F Diurno     2013
+09 00 0741 02164 ESPINOSA                  JOSE                      M Diurno     2013
+09 00 0741 02464 CONCEPCION                YUNIER                    M Diurno     2013
+09 00 0742 00469 BERMUDES                  JESUS                     M Diurno     2013
+09 00 0742 00501 ARANGO                    IVAN                      M            2013
+09 00 0742 00968 GARCIA                    NELSON                    M Diurno     2013
+09 00 0742 01087 GONZALEZ                  FRANCISCO                 M Diurno     2013
+09 00 0742 01090 ATENCIO                   TYANA                     F            2013
+09 00 0742 01108 BOSQUEZ                   ISAIAS                    M            2013
+09 00 0742 01600 SERRANO                   HECTOR                    M Diurno     2013
+09 00 0742 01707 QUIEL                     VANESSA                   F Diurno     2013
+09 00 0742 02048 MARTINEZ                  ANA                       F            2013
+09 00 0743 00636 RIVERA                    BERTHA                    F            2013
+09 00 0743 00808 CASTILLO                  ALBANIA                   F Diurno     2013
+09 00 0743 00844 GIRON                     ILKA                      F            2013
+09 00 0743 01190 RODRIGUEZ                 MANUEL                    M Diurno     2013
+09 00 0743 02039 CASTILLO                  MIRIANIS                  F Diurno     2013
+09 00 0743 02216 QUINTERO                  AARON                     M            2013
+09 00 0743 02247 GUERRA                    ANGELYS                   F            2013
+09 00 0743 02338 RODRIGUEZ                 JHONATAN                  M            2013
+09 00 0744 00203 BARRIA                    MARIA                     F            2013
+09 00 0744 00573 CAMA�O                  ANGEL                     M            2013
+09 00 0744 00796 RIOS                      ONEL                      M            2013
+09 00 0744 00846 CALLES                    RIGOBERTO                 M            2013
+09 00 0744 01829 CASTILLO C.               DALADIER A.               M Diurno     2013
+09 00 0745 00183 VEGA                      DEMETRIO                  M            2013
+09 00 0745 00689 CABALLERO                 MODESTO                   M            2013
+09 00 0745 00916 ALMANZA HERNANDEZ         ARIANA ANET               F Diurno     2013
+09 00 0745 00949 GONZALEZ                  OSMAN                     M Diurno     2013
+09 00 0746 01964 FULLER                    LUIS                      M Nocturno   2013
+09 00 0748 02315 GIL                       YESSICA                   F Diurno     2013
+09 00 0751 02338 MENDOZA                   SELIS                     F Diurno     2013
+09 00 0752 00029 SUAZO                     CRISTY                    F            2013
+09 00 0761 01115 AGUILAR                   ADAN                      M Diurno     2013

@@ -1,0 +1,35 @@
+02 00 0719 02461 BUITRAGO                  EUFEMIA                   F Diurno     2013
+02 00 0724 00174 MENDIETA                  WILLIAMS                  M Diurno     2013
+02 00 0725 01788 DE LEON                   DANIELA                   F Diurno     2013
+04 00 0773 02426 CAMARENA                  EFIGENIO                  M Diurno     2013
+08 00 0813 01236 BETHANCOURTT              JUAN                      M Diurno     2013
+08 00 0843 00341 QIU                       DAVID                     M Diurno     2012
+08 00 0878 00167 QUINTERO                  JESUS                     M Vespertin  2013
+09 00 0713 00836 HERNANDEZ                 LUISA                     F Nocturno   2013
+09 00 0715 02226 FLORES                    KAREM                     F Diurno     2013
+09 00 0719 02348 URIETA                    ITZEL                     F Nocturno   2013
+09 00 0720 02009 LIMA                      RANDALL                   M            2013
+09 00 0729 01602 RODRIGUEZ                 ELSI                      F Diurno     2013
+09 00 0731 02028 URRIOLA                   KRISTEL                   F Diurno     2013
+09 00 0732 00793 AMORES                    HUMBERTO                  M Diurno     2013
+09 00 0733 01470 GONZALEZ                  DARINEL                   M Diurno     2013
+09 00 0735 00472 FERNANDEZ                 ADDA                      F Diurno     2013
+09 00 0735 00569 GONZALEZ                  YOLMARYS                  F Diurno     2013
+09 00 0736 02144 MONTOYA                   JOSUEL                    M Diurno     2013
+09 00 0736 02350 VASQUEZ                   KEVIN                     M Diurno     2013
+09 00 0736 02365 ROMERO GONZALEZ           KAREN STEFFI              F Diurno     2013
+09 00 0736 02374 GOFF                      JOSE                      M Diurno     2013
+09 00 0737 01672 APONTE                    IRVING                    M Diurno     2013
+09 00 0737 01730 MADRID                    MARIA                     F Diurno     2013
+09 00 0738 00549 PINEDA OSSA               LUIS ANTONIO              M Diurno     2013
+09 00 0738 01629 ZAMBRANO                  ADRIANO                   M Diurno     2013
+09 00 0739 00798 MADRID                    TOMAS                     M Diurno     2013
+09 00 0739 02304 JARAMILLO                 ASTRID                    F Diurno     2013
+09 00 0740 01953 VIDAL                     MOISES                    M Diurno     2013
+09 00 0741 01729 MELA                      JOSE                      M Diurno     2013
+09 00 0742 00615 RODRIGUEZ                 LUIS ENRIQUE              M Diurno     2013
+09 00 0742 01385 MORENO                    JUAN CARLOS               M Diurno     2013
+09 00 0742 01661 SANCHEZ                   DIOMEDES                  M Diurno     2013
+09 00 0743 00583 PUGA                      JOSE                      M            2013
+09 00 0744 01165 RODRIGUEZ                 FLOR                      F Diurno     2013
+09 00 0744 02209 SOLIS                     CARMEN                    F Diurno     2013
